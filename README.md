@@ -25,20 +25,20 @@ Creo en la mejora continua como parte esencial de la ingeniería de software. Di
 ## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,symfony,laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=php,symfony,py" />
 </p>
 
-`PHP` `Symfony` `Laravel` `Node.js` `APIs REST` `DDD` `CQRS` `Microservicios`
+`PHP` `Symfony` `Python` `APIs REST` `DDD` `CQRS` `Microservicios`
 
 ---
 
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,jquery,ts,react,tailwind,html,css,bootstrap,twig" />
 </p>
 
-`JavaScript` `TypeScript` `Vue.js` `React` `HTML5` `CSS3`
+`JavaScript` `JQuery` `TypeScript` `React` `HTML5` `CSS3`
 
 ---
 
@@ -55,10 +55,10 @@ Creo en la mejora continua como parte esencial de la ingeniería de software. Di
 ## DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github,githubactions,bash,powershell" />
 </p>
 
-`Docker` `Linux` `GitHub Actions` `CI/CD` `AWS`
+`Docker` `Linux` `ubuntu` `GitHub Actions` `CI/CD` `AWS`
 
 ---
 
