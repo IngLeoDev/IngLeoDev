@@ -28,7 +28,7 @@ Creo en la mejora continua como parte esencial de la ingeniería de software. Di
   <img src="https://skillicons.dev/icons?i=php,symfony,py" />
 </p>
 
-`PHP` `Symfony` `Python` `APIs REST` `DDD` `CQRS` `Microservicios`
+`PHP` `Symfony` `Codeigniter` `Python` `APIs REST` `DDD` `CQRS` `Microservicios`
 
 ---
 
@@ -55,7 +55,7 @@ Creo en la mejora continua como parte esencial de la ingeniería de software. Di
 ## DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github,githubactions,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github,githubactions,bash,powershell,vscode" />
 </p>
 
 `Docker` `Linux` `ubuntu` `GitHub Actions` `CI/CD` `AWS`
