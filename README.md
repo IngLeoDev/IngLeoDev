@@ -62,6 +62,17 @@ Creo en la mejora continua como parte esencial de la ingeniería de software. Di
 
 ---
 
+## AI Engineering
+
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/claude" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/chatgpt" width="64px" />
+<div>
+
+`Claude API` `OpenAI` `LLM Integration` `RAG` `Prompt Engineering` `GitHub Copilot` `Claude Code`
+
+---
+
 ## 📌 Enfoque
 
 Me interesa construir productos tecnológicos sólidos, escalables y mantenibles, combinando:
