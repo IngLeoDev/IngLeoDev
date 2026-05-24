@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./IngLeoDev.png" width="100%" alt="La tecnología tiene más valor cuando resuelve problemas reales de forma simple, eficiente y escalable."/>
+</p>
+
 # 👋 Hola, soy Leo
 
 ## 💻 Ingeniero en Ciencias Informáticas
