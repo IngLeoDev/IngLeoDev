@@ -90,7 +90,7 @@ Me interesa construir productos tecnológicos sólidos, escalables y mantenibles
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub:</h2>  
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=IngLeoDev" height="250"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=IngLeoDev&theme=gruvbox" height="250"/>
 </div>
 
 ---
